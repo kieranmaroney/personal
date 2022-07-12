@@ -3,7 +3,7 @@
 (631) 252-4531 kmaroney@tulane.edu
 
 
-##EDUCATION
+###EDUCATION
 
 Tulane University School of Public Health and Tropical Medicine, New Orleans, LA                                                                        2020-Present
 PhD: Department of Epidemiology	
@@ -15,7 +15,7 @@ Thesis Topic: Kidney Graft Survival by the Teaching Status of a Transplant Cente
 University of Pittsburgh, Pittsburgh, PA							                                                                                                          2018
 BS: Biological Sciences; Minor in Chemistry and Economics; Certificate in Conceptual Foundations of Medicine
 
-##TEACHING EXPERIENCE
+###TEACHING EXPERIENCE
 Tulane University
 -Cardiovascular Disease Epidemiology   							                                                                                                     Spring 2022
 -Observational Epidemiology								                                                                                                                 Fall 2021
@@ -25,7 +25,7 @@ Emory University
 -Clinical Epidemiology I								                                                                                                                   Fall 2020
 
 
-##RESEARCH EXPERIENCE
+###RESEARCH EXPERIENCE
 Graduate Research Assistant								                                                                                                                2020-2022
 Department of Epidemiology, Tulane University
 -Assisted with epidemiological research regarding blood pressure management as well as systematic reviews and meta-analyses on cardiovascular disease risk factors
@@ -38,11 +38,11 @@ Division of Transplantation, Emory University School of Medicine
 -Conducted literature reviews for manuscript preparation, supported grant submissions and performed IRB management for various studies
 
 
-##Publications
+###Publications
 
 Maroney K, Curtis LM, Opsasnick L, Smith KD, Eifler MR, Moore A, Wedd J, Wolf MS, Patzer RE. eHealth literacy and web-based patient portal usage among kidney and liver transplant recipients. Clin Transplant. 2021 Feb;35(2):e14184. doi: 10.1111/ctr.14184. Epub 2020 Dec 16. PMID: 33278846.
 
-##ABSTRACTS
+###ABSTRACTS
 
 Maroney, K., et al. "Assessing Providers' Accuracy in Predicting Early Readmission after Kidney and Liver Transplantation." AMERICAN JOURNAL OF TRANSPLANTATION. Vol. 20. 111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY, 2020.
 
@@ -57,7 +57,7 @@ Melanson TA, Hogan J, Maroney K, Patzer R, George R. Prevalence and consequences
 Melanson TA, Hogan J, Maroney K, Patzer R, George R. Racial Disparities in Documentation of Non-Adherence and Its Relation to Rejection in Pediatric Kidney Transplant Recipients [abstract]. Am J Transplant. 2019; 19 (suppl 3). 
 
 
-##CONFERENCE PRESENTATIONS
+###CONFERENCE PRESENTATIONS
 
 Maroney, K, Hamoda, R, McPherson, L, Cruz, A, Patan, S, Plantinga, L, Paul, S, Ellis, M, DuBay, D, Reeves-Daniel, A, Detwiler, R, Hartmann, E., Jones, H, Thrasher, B., Zayas, C, Mulloy, L., Wright, S, Patzer RE. Dialysis Facility Provider Transplant Knowledge after a Randomized Multilevel Intervention to Increase Kidney Transplant Referral and Evaluation in the Southeast. Boston, MA. American Transplant Congress, June 2019 (oral presentation)
 
@@ -71,17 +71,17 @@ Maroney, K, Hamoda, R, McPherson, L, Cruz, A, Patan, S, Plantinga, L, Paul, S, E
 
 Maroney, K, Hamoda, R, McPherson, L, Cruz, A, Patan, S, Plantinga, L, Paul, S, Ellis, M, DuBay, D, Reeves-Daniel, A, Detwiler, R, Hartmann, E., Jones, H, Thrasher, B., Zayas, C, Mulloy, L., Wright, S, Patzer RE. Dialysis Facility Provider Transplant Knowledge after a Randomized Multilevel Intervention to Increase Kidney Transplant Referral and Evaluation in the Southeast. Atlanta, GA. William C. Wood Research Symposium, April 2019 (oral presentation)
 
-##HONORS AND AWARDS
+###HONORS AND AWARDS
 Rollins Earn and Learn ($5000)								                                                                                                             2018-2020
 Tuition Exchange Scholar (Full tuition)							                                                                                                       2014-2018
 Dean’s List, University of Pittsburgh 				                                                                                      Fall 2014-Fall 2015, Spring 2018
 
 
-##SKILLS
+###SKILLS
 
 SAS, R, ArcGIS, Microsoft Office
 
-##ACTIVITIES
+###ACTIVITIES
 Tulane University
 •	Epi Rep, Public Health Doctoral Student Organization				         2021-2022
 •	Doctoral Student Rep, Student Government Association				         2021-2022
